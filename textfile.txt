@@ -1,2 +1,7 @@
 something
+<<<<<<< HEAD
 also master added something new
+=======
+Testing branch added somthing nju
+
+>>>>>>> testing
